@@ -15,6 +15,3 @@
 **Frontend:** Vue.js, Tailwind CSS  
 **Databases:** MongoDB, ClickHouse  
 **Cloud:** AWS, Docker, Kubernetes  
-
-## 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonyraja03&show_icons=true)
