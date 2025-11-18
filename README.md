@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Antony
 
-<!--
-**Antonyraja03/Antonyraja03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Product Owner | Observability & Security  
+🔧 Working with Go, Node.js, Vue, ClickHouse, MongoDB  
+🐟 Tuna Export Entrepreneur | Tuticorin  
 
-Here are some ideas to get you started:
+## 🔥 What I Do
+- Build APM, Log, Security & Analytics Platforms  
+- Create scalable microservices  
+- Parse synthetic test logs & ClickHouse pipelines  
+- Build Chrome extensions and monitoring agents  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+**Languages:** Go, Node.js, Python, PHP, Java  
+**Frontend:** Vue.js, Tailwind CSS  
+**Databases:** MongoDB, ClickHouse  
+**Cloud:** AWS, Docker, Kubernetes  
+
+## 📈 Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonyraja03&show_icons=true)
